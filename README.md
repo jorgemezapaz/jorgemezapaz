@@ -40,11 +40,11 @@ Soy desarrollador de software con mas de 9 años de experiencia en el mundo del 
 ## Ultimos videos de mi [canal de Youtube](https://www.youtube.com/channel/UCKLYlrbPnf9DdfqxKkYbHOQ)
 
 <a href='https://youtu.be/Kxg2UOvb05Y' target='_blank'>
-  <img width='30%' src='https://i9.ytimg.com/vi_webp/Kxg2UOvb05Y/mqdefault.webp?v=632bf61b&sqp=CKTczpkG&rs=AOn4CLBgphRYSppwkOFdPKP5c7dLzkuDCw' alt='Spring Boot - Graceful Shutdowwn' />
+  <img width='30%' src='./img/03.jpg' alt='Spring Boot - Graceful Shutdowwn' />
 </a>
 <a href='https://youtu.be/DjY7PesFJNk' target='_blank'>
-  <img width='30%' src='https://i9.ytimg.com/vi_webp/DjY7PesFJNk/mqdefault.webp?v=62fb0d9d&sqp=CNDezpkG&rs=AOn4CLDweMPW9OvLZan4newechEu-1UnVQ' alt='KOTLIN: Principios básicos - CURSO para principiantes' />
+  <img width='30%' src='./img/01.jpg' alt='KOTLIN: Principios básicos - CURSO para principiantes' />
 </a>
 <a href='https://youtu.be/AF-WBGooNxI' target='_blank'>
-  <img width='30%' src='https://i9.ytimg.com/vi_webp/AF-WBGooNxI/mqdefault.webp?v=62ead67c&sqp=CNDezpkG&rs=AOn4CLDaiTfssdXawq4UXpDmENYtojgkwQ' alt='Spring Boot - Usando Feign Client' />
+  <img width='30%' src='./img/02.jpg' alt='Spring Boot - Usando Feign Client' />
 </a>
