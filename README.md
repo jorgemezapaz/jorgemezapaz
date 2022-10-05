@@ -15,7 +15,7 @@ Soy desarrollador de software con mas de 9 años de experiencia en el mundo del 
 - 🤔 &nbsp; Me gusta explorar nuevas tecnologías
 - 🏗️ &nbsp; Me gusta el diseño y arquitectura de software
 - 👨‍🎓 &nbsp; Estudio por lo menos 3 veces por semana algún tema sobre tecnología
-- 🧑‍💼 &nbsp; Actualmente trabajo como Software Engineer Senior en una empresa con gran precencia en Latinoamérica
+- 🧑‍💼 &nbsp; Actualmente trabajo como Software Engineer Senior en una empresa con gran presencia en Latinoamérica
 
 ## Tecnologías:
 
@@ -38,7 +38,7 @@ Soy desarrollador de software con mas de 9 años de experiencia en el mundo del 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git"/></code>
 <code><img height="50" src="https://cdn.iconscout.com/icon/free/png-256/postman-3521648-2945092.png" alt="POSTMAN"/></code>
 
-## Ultimos videos de mi [canal de Youtube](https://www.youtube.com/channel/UCKLYlrbPnf9DdfqxKkYbHOQ)
+## Últimos videos de mi [canal de Youtube](https://www.youtube.com/channel/UCKLYlrbPnf9DdfqxKkYbHOQ)
 
 <a href='https://youtu.be/Kxg2UOvb05Y' target='_blank'>
   <img width='30%' src='./img/03.jpg' alt='Spring Boot - Graceful Shutdowwn' />
