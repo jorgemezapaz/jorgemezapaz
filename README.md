@@ -40,6 +40,9 @@ Soy desarrollador de software con mas de 9 años de experiencia en el mundo del 
 
 ## Últimos videos de mi [canal de Youtube](https://www.youtube.com/channel/UCKLYlrbPnf9DdfqxKkYbHOQ)
 
+<a href='https://youtu.be/V5jPILLuRKk' target='_blank'>
+  <img width='30%' src='./img/04.png' alt='Spring Boot - Graceful Shutdowwn' />
+</a>
 <a href='https://youtu.be/Kxg2UOvb05Y' target='_blank'>
   <img width='30%' src='./img/03.jpg' alt='Spring Boot - Graceful Shutdowwn' />
 </a>
