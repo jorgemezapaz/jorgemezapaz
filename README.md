@@ -1,7 +1,7 @@
 ### Hola, mi nombre es Jorge Meza 👋
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCKLYlrbPnf9DdfqxKkYbHOQ?style=social)](https://www.youtube.com/channel/UCKLYlrbPnf9DdfqxKkYbHOQ?sub_confirmation=1)
-[![Twitter Follow](https://img.shields.io/twitter/follow/jorgemezapaz1?style=social)](https://twitter.com/jorgemezapaz1)
+[![Twitter Follow](https://img.shields.io/twitter/follow/JorgeMezaP7?style=social)](https://twitter.com/jorgemezapaz1)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=normal&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-meza-b5401236)
 ![](https://img.shields.io/github/followers/jorgemezapaz?label=follow&logo=github&style=flat-square)
 ![GitHub User's stars](https://img.shields.io/github/stars/jorgemezapaz?label=%E2%AD%90GitHub%20stars&style=flat-square)
