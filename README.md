@@ -9,7 +9,7 @@
 
 ## <img height="50" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="HTML5"/> Sobre mí
 
-Soy desarrollador de software con mas de 9 años de experiencia en el mundo del desarrollo de software
+Soy desarrollador de software con mas de 10 años de experiencia en el mundo del desarrollo de software
 
 - 📷 &nbsp; Tengo un canal de youtube en donde subo contenido para ayudar a la comunidad
 - 🤔 &nbsp; Me gusta explorar nuevas tecnologías
