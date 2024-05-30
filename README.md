@@ -7,14 +7,13 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/jorgemezapaz?label=%E2%AD%90GitHub%20stars&style=flat-square)
 ![](https://komarev.com/ghpvc/?username=jorgemezapaz&style=flat-square&color=ff69b4)
 
-## <img height="50" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="HTML5"/> Sobre mi
+## <img height="50" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="HTML5"/> Sobre mí
 
 Soy desarrollador de software con mas de 9 años de experiencia en el mundo del desarrollo de software
 
-- 📷 &nbsp; Tengo un canal de youtube en donde subo videos para ayudar a la comunidad
+- 📷 &nbsp; Tengo un canal de youtube en donde subo contenido para ayudar a la comunidad
 - 🤔 &nbsp; Me gusta explorar nuevas tecnologías
 - 🏗️ &nbsp; Me gusta el diseño y arquitectura de software
-- 🧑‍💼 &nbsp; Actualmente trabajo como Software Engineer Senior en una empresa con gran presencia en Latinoamérica
 
 ## Tecnologías:
 
