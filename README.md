@@ -44,7 +44,7 @@ Soy desarrollador de software con mas de 9 años de experiencia en el mundo del 
 <code><img height="50" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/cloud/bitbucketV2.svg" alt="Bitbucket"/></code>
 <code><img height="50" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/cloud/gitlab.svg" alt="GitLab"/></code>
 
-## Últimos videos de mi [canal de Youtube](https://www.youtube.com/channel/UCKLYlrbPnf9DdfqxKkYbHOQ)
+## Últimos videos
 
 <a href='https://youtu.be/4vsUheS9jt8' target='_blank'>
   <img width='30%' src='./img/Singleton.png' alt='Patron de diseño - singleton' />
@@ -65,7 +65,7 @@ Soy desarrollador de software con mas de 9 años de experiencia en el mundo del 
   <img width='30%' src='./img/09.webp' alt='Despliega tu API con Spring boot en menos de 5 minuto con Railway!! 🚀🚀🚀' />
 </a>
 
-## Videos populares de mi [canal de Youtube](https://www.youtube.com/channel/UCKLYlrbPnf9DdfqxKkYbHOQ)
+## Los 3 videos más populares
 
 <a href='https://youtu.be/GfIL78RxEx8' target='_blank'>
   <img width='30%' src='./img/top 1.webp' alt='Spring Boot Avanzado - Manejo de excepciones nivel Pro' />
