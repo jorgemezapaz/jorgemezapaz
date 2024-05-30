@@ -46,33 +46,34 @@ Soy desarrollador de software con mas de 9 años de experiencia en el mundo del 
 
 ## Últimos videos de mi [canal de Youtube](https://www.youtube.com/channel/UCKLYlrbPnf9DdfqxKkYbHOQ)
 
+<a href='https://youtu.be/4vsUheS9jt8' target='_blank'>
+  <img width='30%' src='./img/Singleton.png' alt='Patron de diseño - singleton' />
+</a>
+<a href='https://youtu.be/5iAplhF2CrY' target='_blank'>
+  <img width='30%' src='./img/Principios.png' alt='Principios Solid' />
+</a>
+<a href='https://youtu.be/aZMUofmZQr8' target='_blank'>
+  <img width='30%' src='./img/Despliegues en render.png' alt='Despliega tu api en render' />
+</a>
+<a href='https://youtu.be/yTLoTnDa0WA' target='_blank'>
+  <img width='30%' src='./img/Java record.png' alt='Java record' />
+</a>
 <a href='https://youtu.be/A6ndrcq-WBQ' target='_blank'>
   <img width='30%' src='./img/10.webp' alt='3 Formas de realizar inyección de dependencias - Spring boot' />
 </a>
 <a href='https://youtu.be/4uaS90tCM18' target='_blank'>
   <img width='30%' src='./img/09.webp' alt='Despliega tu API con Spring boot en menos de 5 minuto con Railway!! 🚀🚀🚀' />
 </a>
-<a href='https://youtu.be/tPx5ltfmN74' target='_blank'>
-  <img width='30%' src='./img/08.jpeg' alt='Llamadas a una API con autenticación básica con Rest Template en Spring Boot' />
+
+## Videos populares de mi [canal de Youtube](https://www.youtube.com/channel/UCKLYlrbPnf9DdfqxKkYbHOQ)
+
+<a href='https://youtu.be/GfIL78RxEx8' target='_blank'>
+  <img width='30%' src='./img/top 1.webp' alt='Spring Boot Avanzado - Manejo de excepciones nivel Pro' />
 </a>
-<a href='https://youtu.be/XtrFCtsXSl0' target='_blank'>
-  <img width='30%' src='./img/07.webp' alt='Strings en Java son inmutables - ¿Qué significa esto?' />
+<a href='https://youtu.be/4uaS90tCM18' target='_blank'>
+  <img width='30%' src='./img/09.webp' alt='Despliega tu API con Spring boot en menos de 5 minuto con Railway!! 🚀🚀🚀' />
 </a>
-<a href='https://youtu.be/JGNI0FKkQxw' target='_blank'>
-  <img width='30%' src='./img/06.jpeg' alt='Spring Data Jpa - Avanzado -  @OneToOne @OneToMany @ManyToMany' />
+<a href='https://youtu.be/wixOf-3BL44' target='_blank'>
+  <img width='30%' src='./img/Spring boot con firebase.webp' alt='Springboot con Firebase' />
 </a>
-<a href='https://youtu.be/S6dM-kld-yo' target='_blank'>
-  <img width='30%' src='./img/05.jpeg' alt='Spring boot -  Spring data JPA' />
-</a>
-<a href='https://youtu.be/V5jPILLuRKk' target='_blank'>
-  <img width='30%' src='./img/04.png' alt='Spring Boot - Graceful Shutdowwn' />
-</a>
-<a href='https://youtu.be/Kxg2UOvb05Y' target='_blank'>
-  <img width='30%' src='./img/03.jpg' alt='Spring Boot - Graceful Shutdowwn' />
-</a>
-<a href='https://youtu.be/DjY7PesFJNk' target='_blank'>
-  <img width='30%' src='./img/01.jpg' alt='KOTLIN: Principios básicos - CURSO para principiantes' />
-</a>
-<a href='https://youtu.be/AF-WBGooNxI' target='_blank'>
-  <img width='30%' src='./img/02.jpg' alt='Spring Boot - Usando Feign Client' />
-</a>
+
